@@ -1,0 +1,4 @@
+C:/Users/Mi Ra/Desktop/SFGUI/CMakeFiles/SFGUI.dir
+C:/Users/Mi Ra/Desktop/SFGUI/CMakeFiles/INSTALL.dir
+C:/Users/Mi Ra/Desktop/SFGUI/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mi Ra/Desktop/SFGUI/CMakeFiles/ZERO_CHECK.dir

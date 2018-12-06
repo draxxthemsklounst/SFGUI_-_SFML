@@ -1,0 +1,335 @@
+﻿  Building Custom Rule C:/Users/Mi Ra/Desktop/SFGUI-0.4.0/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Mi Ra/Desktop/SFGUI/CMakeFiles/generate.stamp is up-to-date.
+  Adjustment.cpp
+  Alignment.cpp
+  Bin.cpp
+  Box.cpp
+  Canvas.cpp
+  Container.cpp
+  Context.cpp
+  DejaVuSansFont.cpp
+  Desktop.cpp
+  Engine.cpp
+  BREW.cpp
+  FileResourceLoader.cpp
+  Fixed.cpp
+  GLCheck.cpp
+  GLLoader.cpp
+  Misc.cpp
+  Object.cpp
+  Grammar.cpp
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(141): note: see reference to class template instantiation 'ell::CharGrammarBase<wchar_t>' being compiled
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\src\sfgui\parsers\themeparser\grammar.cpp(9): note: see reference to function template instantiation 'ell::Rule<Token>::~Rule(void)' being compiled
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(137): note: see reference to class template instantiation 'ell::CharGrammarBase<char>' being compiled
+  GrammarPredicates.cpp
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(141): note: see reference to class template instantiation 'ell::CharGrammarBase<wchar_t>' being compiled
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(137): note: see reference to class template instantiation 'ell::CharGrammarBase<char>' being compiled
+  GrammarSelector.cpp
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(141): note: see reference to class template instantiation 'ell::CharGrammarBase<wchar_t>' being compiled
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(137): note: see reference to class template instantiation 'ell::CharGrammarBase<char>' being compiled
+  Generating Code...
+  Compiling...
+  GrammarSimpleSelector.cpp
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(141): note: see reference to class template instantiation 'ell::CharGrammarBase<wchar_t>' being compiled
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(137): note: see reference to class template instantiation 'ell::CharGrammarBase<char>' being compiled
+  GrammarStatement.cpp
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(141): note: see reference to class template instantiation 'ell::CharGrammarBase<wchar_t>' being compiled
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(137): note: see reference to class template instantiation 'ell::CharGrammarBase<char>' being compiled
+  GrammarToken.cpp
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(141): note: see reference to class template instantiation 'ell::CharGrammarBase<wchar_t>' being compiled
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(137): note: see reference to class template instantiation 'ell::CharGrammarBase<char>' being compiled
+  Parse.cpp
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=wchar_t
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(141): note: see reference to class template instantiation 'ell::CharGrammarBase<wchar_t>' being compiled
+c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): warning C4297: 'ell::Rule<Token>::~Rule': function assumed not to throw an exception but does
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(44): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\rule.h(40): note: while compiling class template member function 'ell::Rule<Token>::~Rule(void)'
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\src\sfgui\parsers\themeparser\parse.cpp(12): note: see reference to function template instantiation 'ell::Rule<Token>::~Rule(void)' being compiled
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(98): note: see reference to class template instantiation 'ell::Rule<Token>' being compiled
+          with
+          [
+              Token=char
+          ]
+  c:\users\mi ra\desktop\sfgui-0.4.0\extlibs\libell\include\ell\grammar.h(137): note: see reference to class template instantiation 'ell::CharGrammarBase<char>' being compiled
+  Primitive.cpp
+  PrimitiveTexture.cpp
+  PrimitiveVertex.cpp
+  RadioButton.cpp
+  RadioButtonGroup.cpp
+  Range.cpp
+  RenderQueue.cpp
+  Renderer.cpp
+  RendererViewport.cpp
+  NonLegacyRenderer.cpp
+  VertexArrayRenderer.cpp
+  VertexBufferRenderer.cpp
+  ResourceManager.cpp
+  SFGUI.cpp
+  Selector.cpp
+  Signal.cpp
+  Generating Code...
+  Compiling...
+  Table.cpp
+  TableCell.cpp
+  TableOptions.cpp
+  Viewport.cpp
+  Widget.cpp
+  Generating Code...
+  Button.cpp
+  CheckButton.cpp
+  ComboBox.cpp
+  Button.cpp
+  CheckButton.cpp
+  ComboBox.cpp
+  Entry.cpp
+  Frame.cpp
+  Image.cpp
+  Label.cpp
+  Notebook.cpp
+  ProgressBar.cpp
+  Scale.cpp
+  Scrollbar.cpp
+  ScrolledWindow.cpp
+  Separator.cpp
+  SpinButton.cpp
+  Spinner.cpp
+  ToggleButton.cpp
+  Window.cpp
+  Entry.cpp
+  Frame.cpp
+  Image.cpp
+  Label.cpp
+  Notebook.cpp
+  ProgressBar.cpp
+  Scale.cpp
+  Scrollbar.cpp
+  ScrolledWindow.cpp
+  Separator.cpp
+  SpinButton.cpp
+  Spinner.cpp
+  ToggleButton.cpp
+  Window.cpp
+  SFGUI.vcxproj -> C:\Users\Mi Ra\Desktop\SFGUI\lib\Debug\SFGUI-s-d.lib
